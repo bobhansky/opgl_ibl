@@ -20,9 +20,13 @@ https://www.cgtrader.com/free-3d-models/character/fantasy-character/fantasy-armo
 
 3. using these textures as approx. to solve for rendering eqn (specular term), and then add with (1) for global illumination.
 
+![Demo](https://github.com/bobhansky/opgl_ibl/blob/main/images/knight_profile.png)
+
 ![Demo](https://github.com/bobhansky/opgl_ibl/blob/main/images/sphere1.png)
 
 ![Demo](https://github.com/bobhansky/opgl_ibl/blob/main/images/sphere2.png)
+
+
 
 
 
