@@ -8,7 +8,7 @@ Model comes from
 
 https://www.cgtrader.com/free-3d-models/character/fantasy-character/fantasy-armor-d4ecf232-0d71-49eb-9941-b138680776a4
 
-66432 triangle 
+66432 triangle, FPS is in yellow
 
 
 ## Pipeline:
